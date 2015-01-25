@@ -1,0 +1,10 @@
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\obj\Debug\CompanyService.csprojResolveAssemblyReference.cache
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\CompanyService.dll.config
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\CompanyService.dll
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\CompanyService.pdb
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\EntityFramework.dll
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\EntityFramework.SqlServer.dll
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\EntityFramework.xml
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\bin\EntityFramework.SqlServer.xml
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+c:\users\ryand_000\documents\visual studio 2013\Projects\CompanyService\CompanyService\obj\Debug\CompanyService.pdb
